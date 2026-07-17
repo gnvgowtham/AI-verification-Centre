@@ -4,15 +4,11 @@ html,
 body {
   margin: 0;
   padding: 0;
+  min-height: 100%;
 }
 
 body {
-  background:
-  radial-gradient(circle at top,#172554,#0f172a,#020617);
-
-  color:white;
-
-  min-height:100vh;
-
-  font-family:Arial, Helvetica, sans-serif;
+  background: #050b16;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
